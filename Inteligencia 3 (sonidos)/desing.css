@@ -154,6 +154,15 @@ header {
   color: #ffffff;
 }
 
+.catch{
+  height: 80px;
+  font-size: 1.5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+
 .cam{
   display: flex;
   justify-content: center;
@@ -165,6 +174,13 @@ header {
   width: 10000px; /* Ajusta el ancho del contenedor */
   height: 10000px; /* Ajusta el alto del contenedor */
   margin-top: 50px;
+}
+
+#label {
+  color: white;
+  text-align: center;
+  font-size: 24px;
+  margin-top: 20px;
 }
 
 canvas {
